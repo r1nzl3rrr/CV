@@ -167,3 +167,8 @@ body {
 .projects-section .item div{
     margin-top: 15px;
 }
+
+.gpa{
+  color: rgba(255, 255, 255, 0.6);
+  margin-top: 8px;
+}
